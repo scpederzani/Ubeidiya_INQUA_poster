@@ -1,6 +1,6 @@
 # Ubeidiya_INQUQ_poster
 
-S.Pederzani, Z. Liu, A. Prendergast, R. Drysdale, M. Belmaker, 2023. Macrofaunal stable isotopes from ‘Ubeidiya, Israel, shed light on environmental setting of an early presence of Homo in the Levant. INQUA meeting poster presentation. 
+S. Pederzani, Z. Liu, A. Prendergast, R. Drysdale, M. Belmaker, 2023. Macrofaunal stable isotopes from ‘Ubeidiya, Israel, shed light on environmental setting of an early presence of Homo in the Levant. INQUA meeting poster presentation. 
 
 # References
 1.	Belmaker, M. & O’Brien, H. D. Mesowear study of ungulates from the early Pleistocene site of ‘Ubeidiya (Israel) and the implications for early Homo dispersal from Africa. Quat. Int. 480, 66–77 (2018).
