@@ -1,4 +1,4 @@
-# Ubeidiya_INQUQ_poster
+# Ubeidiya_INQUA_poster
 
 S. Pederzani, Z. Liu, A. Prendergast, R. Drysdale, M. Belmaker, 2023. Macrofaunal stable isotopes from ‘Ubeidiya, Israel, shed light on environmental setting of an early presence of Homo in the Levant. INQUA meeting poster presentation. 
 
